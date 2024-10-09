@@ -13,7 +13,7 @@ else if(score >= 70){
 else if(score >= 60){
     console.log("Grade D");
 }
-else if(score < 60){
+else{
     console.log("Grade F");
 }
 
